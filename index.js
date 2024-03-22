@@ -2,7 +2,7 @@ const nome = prompt('Qual é o seu nome?')
 const idade = prompt('Qual é a sua idade?')
 const cidade = prompt("Digite a sua cidade?")
 const linguagem = prompt('Qual linguagem de programação você está estudando?')
-const msg = `Olá, ${nome}! Você tem ${idade} da ${cidade} anos e está estudando ${linguagem}.`
+const msg = `Olá, ${nome}! Você tem ${idade} anos e és da cidade da ${cidade} e está estudando ${linguagem}.`
 
 alert(msg)
 
